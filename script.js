@@ -3,7 +3,7 @@
 // ===============================
 
 // 🔗 LIVE RENDER BACKEND
-const API_BASE = "https://dukaan-manager-backend-kjen.onrender.com";
+const API_BASE = "https://dukaan-manager-backend-ai2.onrender.com";
 
 const TOKEN_KEY = "dukaan_backend_token";
 const USER_KEY = "dukaan_backend_user";
